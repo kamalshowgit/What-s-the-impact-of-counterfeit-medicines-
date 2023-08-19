@@ -54,9 +54,9 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ---
 <br> By Kamal Soni
-<br> https://github.com/kamalshowgit
+<br> <p>https://github.com/kamalshowgit
 <br> https://www.linkedin.com/in/kamalsonikgp/
 <br> mailto:kamalsoni3839@gmail.com
-<br> https://kamaliitkgp.pythonanywhere.com/
+<br> https://kamaliitkgp.pythonanywhere.com/ </p>
 ---
 
