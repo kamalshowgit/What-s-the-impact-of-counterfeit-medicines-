@@ -1,7 +1,5 @@
 # Counterfeit Medicines Sales Prediction
 
-![Counterfeit Medicines](https://your-image-link.com)
-
 ## Overview
 
 Counterfeit medicines are a significant global problem that not only affects the economy but also poses serious health risks to people. This project aims to predict sales figures for counterfeit medicine selling operations using machine learning techniques. By accurately predicting sales, law enforcement and regulatory agencies can allocate resources more effectively to target high-net-worth illegal operations, ultimately contributing to the fight against counterfeit medicines.
@@ -56,7 +54,7 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ---
 By Kamal Soni
-[![GitHub Logo](https://image-link-for-github-logo.com)](https://github.com/kamalshowgit)
+[![GitHub Logo]([https://image-link-for-github-logo.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0JwZj5khmxHCYnD04NLGhW&ust=1692564789663000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICNyqnN6YADFQAAAAAdAAAAABAE))](https://github.com/kamalshowgit)
 [![LinkedIn Logo](https://image-link-for-linkedin-logo.com)](https://www.linkedin.com/in/kamalsonikgp/)
 [![Email Logo](https://image-link-for-email-logo.com)](mailto:kamalsoni3839@gmail.com)
 [![Website Logo](https://kamaliitkgp.pythonanywhere.com/)](https://your-website-link.com)
