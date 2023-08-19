@@ -53,8 +53,8 @@ pip install -r requirements.txt
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request with your proposed changes.
 
 ---
-By Kamal Soni
-[![GitHub Logo]](https://github.com/kamalshowgit)
+<br> By Kamal Soni
+(https://github.com/kamalshowgit)
 [![LinkedIn Logo]](https://www.linkedin.com/in/kamalsonikgp/)
 [![Email Logo]](mailto:kamalsoni3839@gmail.com)
 [![Website Logo]](https://kamaliitkgp.pythonanywhere.com/))
