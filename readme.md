@@ -54,9 +54,9 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 ---
 By Kamal Soni
-[![GitHub Logo]([https://image-link-for-github-logo.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw0JwZj5khmxHCYnD04NLGhW&ust=1692564789663000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCICNyqnN6YADFQAAAAAdAAAAABAE))](https://github.com/kamalshowgit)
-[![LinkedIn Logo](https://image-link-for-linkedin-logo.com)](https://www.linkedin.com/in/kamalsonikgp/)
-[![Email Logo](https://image-link-for-email-logo.com)](mailto:kamalsoni3839@gmail.com)
-[![Website Logo](https://kamaliitkgp.pythonanywhere.com/)](https://your-website-link.com)
+[![GitHub Logo]](https://github.com/kamalshowgit)
+[![LinkedIn Logo]](https://www.linkedin.com/in/kamalsonikgp/)
+[![Email Logo]](mailto:kamalsoni3839@gmail.com)
+[![Website Logo]](https://kamaliitkgp.pythonanywhere.com/))
 ---
 
